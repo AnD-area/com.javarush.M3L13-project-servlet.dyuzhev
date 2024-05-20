@@ -1,4 +1,6 @@
-package com.tictactoe;
+package com.tictactoe.repository;
+
+import com.tictactoe.entity.Sign;
 
 import java.util.HashMap;
 import java.util.List;

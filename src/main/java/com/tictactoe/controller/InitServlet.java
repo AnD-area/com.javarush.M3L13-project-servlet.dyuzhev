@@ -1,5 +1,7 @@
-package com.tictactoe;
+package com.tictactoe.controller;
 
+import com.tictactoe.repository.Field;
+import com.tictactoe.entity.Sign;
 import jakarta.servlet.ServletException;
 import jakarta.servlet.annotation.WebServlet;
 import jakarta.servlet.http.HttpServlet;

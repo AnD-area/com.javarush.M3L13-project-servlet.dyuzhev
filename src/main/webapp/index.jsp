@@ -1,4 +1,4 @@
-<%@ page import="com.tictactoe.Sign" %>
+<%@ page import="com.tictactoe.entity.Sign" %>
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 
 <!DOCTYPE html>
@@ -60,6 +60,5 @@
         });
     }
 </script>
-
 </body>
 </html>
